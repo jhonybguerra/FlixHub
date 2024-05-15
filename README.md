@@ -13,7 +13,7 @@
 
 ⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Kotlin. Mais informações técnicas abaixo.
 
-🎬 O FlixHub é um aplicativo de faz buscas sobre detalhes de filmes no banco de dados TMDB, utilizando as bibliotecas e tecnologias mais recentes do Android.
+🎬 O FlixHub é um aplicativo de faz buscas sobre detalhes de filmes no banco de dados OMDB, utilizando as bibliotecas e tecnologias mais recentes do Android.
 
 </p>
 
